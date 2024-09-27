@@ -28,5 +28,4 @@ def my_func():
 
 if __name__ == '__main__':
     my_func()
-
-#     student_func()
+    # student_func()
